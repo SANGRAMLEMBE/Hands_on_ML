@@ -8,6 +8,6 @@ Notebooks – Step-by-step implementation of ML algorithms and concepts.
 Datasets – Sample datasets used for training and testing models.
 
 # Tools & Libraries
-Python 3.10
-NumPy
+* Python 3.10
+* NumPy
 
